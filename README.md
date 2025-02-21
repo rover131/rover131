@@ -1,7 +1,7 @@
 ## 💫 About Me :
 Hello! 👋
 
-My name is Rustem, and I am a practicing product analyst with two years of experience in this field. In addition, I am a lecturer and author of courses on Analytics and Marketing at online schools and Innopolis University.
+My name is Rustem, and I am a practicing product analyst with two years of experience in this field. In addition, I am a lecturer and author of courses on Analytics and ML at online schools and Innopolis University.
 
 I am inspired by the task of automating processes and finding valuable analytical data.
 
