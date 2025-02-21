@@ -1,13 +1,29 @@
-# 💫About Me :
-dsf 
-sdcfv
+## 💫 About Me :
+Hello! 👋
 
-# 💻Tech Stack
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=rover131&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rover131&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rover131&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My name is Rustem, and I am a practicing product analyst with two years of experience in this field. In addition, I am a lecturer and author of courses on Analytics and Marketing at online schools and Innopolis University.
 
----
-[![](https://visitcount.itsvg.in/api?id=rover131&icon=0&color=0)](https://visitcount.itsvg.in)
+I am inspired by the task of automating processes and finding valuable analytical data.
+
+____
+### Projects
+💻 Data analysis
+- [Site vacancy analysis hh.ru](https://github.com/rover131/data_science/tree/main/analysis_head_hunter)
+- [Hypothesis testing using A/B testing](https://github.com/rover131/data_science/tree/main/ab-test)
+
+📈 ML tasks
+- Recognition of handwritten phone numbers from photos
+- [Time series research, building a predictive model for stock prices over the previous 5 years](https://github.com/rover131/final)
+
+🦾 Development
+- [Client-server application with PostgreSQL integration](https://github.com/rover131/postgresql_window)
+- [A project for a WAMP dating site](https://github.com/rover131/meetings_WAMP/tree/master)
+- Games using OOP - [Pac-Man]( https://github.com/rover131/packman) and [StarWars](https://github.com/rover131/game_plan)
+____
+
+> Tools: Python (pandas, numpy, sklearn, keras, pytorch, XGBoost, TensorFlow, YOLO, threading, subprocess), Git, PostgreSQL, Vertica, ClickHouse, Airflow and more.
+____
+### 🌐Socials
+- LinkedIn - https://linkedin.com/in/rover131
+- Telegram: @roverjob
+- Email: rover102a@mail.ru
